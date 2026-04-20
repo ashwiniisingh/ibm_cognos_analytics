@@ -17,10 +17,7 @@
 ## 🚀 Live Project / Repository
 
 🔗 **GitHub Repo:**  
-👉 https://github.com/ashwiniisingh/ibm_cognos_analytics  
-
-📊 **Dashboard Preview:**  
-👉 *(Add Cognos public link if available)*  
+👉 https://github.com/ashwiniisingh/ibm_cognos_analytics 
 
 ---
 
